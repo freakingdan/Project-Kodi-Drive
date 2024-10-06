@@ -9,4 +9,4 @@ This guide will help you set up the connection between Google Drive and Kodi usi
 
 ## Warning
 
-**Important**: This application is not yet verified by Google, which means there will be an additional steps during the authentication process. See the "Deploy Your Own Instance" section for more details on configuring environment variables and deploying your service.
+**Important**: This application is not yet verified by Google, which means there will be an additional steps during the authentication process. See the ["Deploy Your Own Instance"](https://github.com/freakingdan/Project-Kodi-Drive/main/about.md) section for more details on configuring environment variables and deploying your service.
