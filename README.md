@@ -1,4 +1,6 @@
-# Google Drive to Kodi Connection
+
+
+# Project Kodi Drive (forked from aldacco/drive-login)
 
 This guide will help you set up the connection between Google Drive and Kodi using our Next.js application.
 
